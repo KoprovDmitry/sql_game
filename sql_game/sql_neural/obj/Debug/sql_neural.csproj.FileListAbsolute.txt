@@ -1,0 +1,10 @@
+X:\materials\neyron_sql\sql_neural\sql_neural\bin\Debug\sql_neural.exe.config
+X:\materials\neyron_sql\sql_neural\sql_neural\bin\Debug\sql_neural.pdb
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.Properties.Resources.resources
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.csproj.GenerateResource.cache
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.csproj.CoreCompileInputs.cache
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.exe
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.pdb
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.Data.Buildings.BuildingsCore.resources
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.csproj.CopyComplete
+X:\materials\neyron_sql\sql_neural\sql_neural\obj\Debug\sql_neural.csproj.AssemblyReference.cache
